@@ -2,10 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body,
+:root {
+  height: 100%;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
-  @apply overflow-x-hidden bg-zinc-100 text-zinc-900;
+  @apply overflow-x-hidden bg-zinc-50 text-zinc-900;
 }
