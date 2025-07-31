@@ -1,0 +1,93 @@
+{
+  "result": [
+    {
+      "room": {
+        "name": "Product A",
+        "id": 12456,
+        "image_url": "https://picsum.photos/id/237/200/300",
+        "participants": [
+          {
+            "id": "admin@mail.com",
+            "name": "Admin",
+            "role": 0
+          },
+          {
+            "id": "agent@mail.com",
+            "name": "Agent",
+            "role": 1
+          },
+          {
+            "id": "customer@mail.com",
+            "name": "king customer",
+            "role": 0
+          }
+        ]
+      },
+      "comments": [
+        {
+          "id": 885512,
+          "type": "text",
+          "message": "Selamat malam",
+          "sender": "customer@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885513,
+          "type": "text",
+          "message": "Malam",
+          "sender": "agent@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885514,
+          "type": "text",
+          "message": "Ada yang bisa saya bantu?",
+          "sender": "agent@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885515,
+          "type": "text",
+          "message": "Saya ingin mengirimkan bukti pembayaran, karena diaplikasi selalu gagal",
+          "sender": "customer@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885516,
+          "type": "text",
+          "message": "Baik, silahkan kirimkan lampiran bukti pembayarannya",
+          "sender": "agent@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885517,
+          "type": "text",
+          "message": "",
+          "sender": "customer@mail.com",
+          "file": "image"
+        },
+        {
+          "id": 885518,
+          "type": "text",
+          "message": "Baik, ikuti langkah-langkah berikut yang berupa video dan pdf",
+          "sender": "agent@mail.com",
+          "file": "text"
+        },
+        {
+          "id": 885518,
+          "type": "text",
+          "message": "",
+          "sender": "agent@mail.com",
+          "file": "video"
+        },
+        {
+          "id": 885518,
+          "type": "text",
+          "message": "",
+          "sender": "agent@mail.com",
+          "file": "pdf"
+        }
+      ]
+    }
+  ]
+}
